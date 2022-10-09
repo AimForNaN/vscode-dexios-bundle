@@ -11,6 +11,14 @@
         "dark",
         "dexios"
     ],
+    "publisher": "truefusion",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/truefusion/vscode-dexios-bundle.git"
+    },
+    "bugs": {
+        "url": "https://github.com/truefusion/vscode-dexios-bundle/issues"
+    },
     "categories": [
         "Extension Packs"
     ],
