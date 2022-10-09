@@ -1,0 +1,22 @@
+{
+    "name": "dexios-bundle",
+    "displayName": "Dexios (bundle)",
+    "description": "Dexios extension pack for VS Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.72.0"
+    },
+    "keywords": [
+        "fedu",
+        "dark",
+        "dexios"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "truefusion.dexios",
+        "miguelsolorio.fluent-icons",
+        "jtlowe.vscode-icon-theme"
+    ]
+}
