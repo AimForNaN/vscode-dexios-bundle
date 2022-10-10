@@ -25,6 +25,8 @@
     "extensionPack": [
         "truefusion.dexios",
         "miguelsolorio.fluent-icons",
-        "jtlowe.vscode-icon-theme"
+        "jtlowe.vscode-icon-theme",
+        "7ute.minimal-icon-theme",
+        "pkief.material-product-icons"
     ]
 }
